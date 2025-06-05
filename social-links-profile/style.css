@@ -1,0 +1,45 @@
+body {
+  background-color: hsl(0, 0%, 8%);
+  color: white;
+}
+.main {
+  background-color: hsl(0, 0%, 12%);
+  width: 30vw;
+  padding: 20px;
+  margin: auto; 
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 50px;
+  border-radius: 20px;
+}
+.image {
+  height: 20%;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  border-radius: 50%;
+}
+.first-child {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  
+}
+.second-child {
+  text-align: center;
+  width: 100%;
+}
+.same {
+  background-color: brown;
+  margin: 10px;
+  border-radius: 10px;
+  height: 30px;
+}
+.text {
+  margin: 20px;
+}
+.yellow-txt {
+  color: yellow;
+}
